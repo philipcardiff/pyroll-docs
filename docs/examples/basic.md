@@ -10,7 +10,7 @@ On Windows, the main part works accordingly.
 First, we create a new directory for our simulation project and open it.
 
 ```shell
-mkdir pyroll_proj1
+mkdir pyroll_project1
 cd pyroll_project1
 ```
 
